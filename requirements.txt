@@ -1,0 +1,15 @@
+pystac-client
+stackstac
+geopandas
+rioxarray
+rasterio
+xarray
+numpy==1.26.4
+shapely==1.8.5.post1
+click==8.1.7
+tqdm
+pandas
+scikit-learn
+joblib
+ruptures
+rasterstats
